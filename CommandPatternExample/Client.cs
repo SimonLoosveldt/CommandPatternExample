@@ -5,7 +5,7 @@ namespace CommandPatternExample
     /// <summary>
     /// Client code
     /// </summary>
-    public class Client
+    public class Client // Example code implemented and adapted from Vaskaran Sarcar's book 'Design Patterns in C#' page 315 - 335
     {
         static void Main(string[] args)
         {

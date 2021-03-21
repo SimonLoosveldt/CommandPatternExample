@@ -9,7 +9,7 @@ namespace CommandPatternExample
     /// <summary>
     /// Invoker class
     /// </summary>
-    public class RemoteControl
+    public class RemoteControl // Example code implemented and adapted from Vaskaran Sarcar's book 'Design Patterns in C#' page 315 - 335
     {
         ICommand commandToBePerformed, lastCommandPerformed;
         public void SetCommand(ICommand command)

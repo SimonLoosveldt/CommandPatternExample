@@ -9,7 +9,7 @@ namespace CommandPatternExample
     /// <summary>
     /// Receiver Class
     /// </summary>
-    public class Game
+    public class Game // Example code implemented and adapted from Vaskaran Sarcar's book 'Design Patterns in C#' page 315 - 335
     {
         string gameName;
         public Game(string name)

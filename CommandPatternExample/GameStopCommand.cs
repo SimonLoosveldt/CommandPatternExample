@@ -9,7 +9,7 @@ namespace CommandPatternExample
     /// <summary>
     /// GameStopCommand
     /// </summary>
-    public class GameStopCommand : ICommand
+    public class GameStopCommand : ICommand // Example code implemented and adapted from Vaskaran Sarcar's book 'Design Patterns in C#' page 315 - 335
     {
         private Game game;
         public GameStopCommand(Game game)

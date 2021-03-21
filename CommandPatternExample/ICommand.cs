@@ -9,7 +9,7 @@ namespace CommandPatternExample
     /// <summary>
     /// The command interface
     /// </summary>
-    public interface ICommand
+    public interface ICommand // Example code implemented and adapted from Vaskaran Sarcar's book 'Design Patterns in C#' page 315 - 335
     {
         // To execute a command
         void Execute();
